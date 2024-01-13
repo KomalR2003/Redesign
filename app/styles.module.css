@@ -1,0 +1,175 @@
+.all{
+    position: relative;
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70% ;
+    height: 30vh;
+    width: 15vw;
+    background-color: rgb(238, 237, 237);
+   
+}
+.all1{
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70% ;
+    height: 30vh;
+    width: 15vw;
+    background-color: rgb(238, 237, 237);
+    margin-top: 30%;
+   
+}
+.all66{
+    border-radius: 63% 37% 34% 66% / 55% 46% 54% 45%   ;
+    height: 55vh;
+    width: 27vw;
+    background-color: rgb(238, 237, 237);
+    position: relative;
+    margin-left: -8%;
+}
+.all66brdr{
+    position: absolute;
+    border-radius: 47% 53% 56% 44% / 63% 59% 41% 37%  ;
+    border: 1px solid rgb(166, 165, 165);
+    height: 53vh;
+    width: 30vw;
+    margin-left: -3%;
+    margin-top: -1%;
+}
+
+.imag{
+    position: absolute;
+    z-index: 100;
+    height: 28vh;
+    width: 11vw;
+    border-radius: 30px;
+    margin-top: -14%;
+    margin-left: 2%;
+}
+.imgbrdr{
+    position: absolute;
+    border-radius: 47% 53% 56% 44% / 63% 59% 41% 37%  ;
+    border: 1px solid rgb(166, 165, 165);
+    height: 30vh;
+    width: 16vw;
+    margin-top: -15%;
+}
+.all101{
+    border-radius: 70% 30% 41% 59% / 47% 41% 59% 53%   ;
+    height: 39vh;
+    width: 18vw;
+    background-color: rgb(238, 237, 237);
+    position: relative;
+    margin-left: 7%;
+    margin-top: 5%;
+}
+
+.brder101{
+    position: absolute;
+    border-radius: 70% 30% 41% 59% / 47% 41% 59% 53%   ;
+    border: 1px solid rgb(166, 165, 165);
+    height: 36vh;
+    width: 23vw;
+    margin-top: -17%;
+    margin-left: 5%;
+    
+}
+.footer{
+    position: relative;
+    clip-path: polygon(100% 100%, 0% 100% , 0.00% 37.42%, 3.33% 38.85%, 6.67% 40.19%, 10.00% 41.39%, 13.33% 42.38%, 16.67% 43.13%, 20.00% 43.60%, 23.33% 43.78%, 26.67% 43.65%, 30.00% 43.23%, 33.33% 42.52%, 36.67% 41.57%, 40.00% 40.40%, 43.33% 39.08%, 46.67% 37.66%, 50.00% 36.21%, 53.33% 34.78%, 56.67% 33.44%, 60.00% 32.25%, 63.33% 31.25%, 66.67% 30.50%, 70.00% 30.03%, 73.33% 29.85%, 76.67% 29.98%, 80.00% 30.40%, 83.33% 31.11%, 86.67% 32.07%, 90.00% 33.23%, 93.33% 34.55%, 96.67% 35.97%, 100.00% 37.42%);
+    height: 85vh;
+    width: 99vw;
+    background-color: #101942;
+    overflow-x: hidden;
+    
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: #f9f9f9;
+    filter: drop-shadow(0px 3.412px 2.559px rgba(237, 28, 35, 0.164));
+    border-radius: 50%;
+    margin-top: 18vh;
+    padding-top: 1px;
+    margin-left: 1vw;
+}
+.boxesl {
+    position: relative;
+    height: 70px;
+    width: 70px;
+    background-color: #f9f9f9;
+    margin-left: 20vw;
+    filter: drop-shadow(0px 3.412px 2.559px rgba(237, 28, 35, 0.164));
+    border-radius: 7px;
+    transform: rotate(45deg);
+    margin-top: 2vh;
+}
+.boxesl1 {
+    height: 70px;
+    width: 70px;
+    background-color: #f9f9f9;
+    margin-left: 20vw;
+    filter: drop-shadow(0px 3.412px 2.559px rgba(237, 28, 35, 0.164));
+    border-radius: 7px;
+    transform: rotate(45deg);
+    margin-top: 10vh;
+}
+.boxesr {
+    height: 70px;
+    width: 70px;
+    background-color: #f9f9f9;
+    /* margin-left: 3vw; */
+    filter: drop-shadow(0px 3.412px 2.559px rgba(237, 28, 35, 0.164));
+    border-radius: 7px;
+    transform: rotate(45deg);
+    margin-top: 2vh;
+}
+.boxesr1 {
+    height: 70px;
+    width: 70px;
+    background-color: #f9f9f9;
+    /* margin-left: 4vw; */
+    filter: drop-shadow(0px 3.412px 2.559px rgba(237, 28, 35, 0.164));
+    border-radius: 7px;
+    transform: rotate(45deg);
+    margin-top: 10vh;
+}
+
+.a84{
+    height: 80px;
+    margin-left: 4vw;
+    width: 250px;
+    margin-top: 8vh;
+}
+.a87{
+    height: 80px;
+    margin-left: 2vw;
+    width: 250px;
+    margin-top: 2vh;
+    margin-right: 3vw;
+}
+.a85{
+    height: 100px;
+    margin-left: 4vw;
+    width: 250px;
+    /* margin-top: 2vh; */
+}
+
+.a82{
+    height: 80px;
+    width: 250px;
+    margin-top: 8vh;
+}
+.a86{
+    height: 80px;
+    /* margin-left: 1vw; */
+    width: 350px;
+    margin-top: 2vh;
+    margin-right: 5vw;
+}
+.a83{
+    height: 100px;
+    margin-left: -1vw;
+    width: 250px;
+    /* margin-top: 2vh; */
+}
+
+.overflow{
+    overflow-x: hidden !important; 
+}
